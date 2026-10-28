@@ -2,6 +2,12 @@
   "github_owner": "Lilrain-hub",
   "repository_name": "Rain-Design-Library",
   "repository_url": "https://github.com/Lilrain-hub/Rain-Design-Library",
-  "site_url": null,
-  "status": "repository_created"
+  "site_url": "https://lilrain-hub.github.io/Rain-Design-Library/",
+  "status": "published",
+  "branch": "main",
+  "source_path": "/",
+  "last_content_commit": "5112d1a4d495bf59ce3412f6fb6c1569bbefe81b",
+  "verified_at": "2026-10-28",
+  "verified_resource_count": 48,
+  "last_verified_deployment_run": 40620345728
 }
