@@ -1,0 +1,12 @@
+[
+  {
+    "name": "CSS Loaders",
+    "url": "https://css-loaders.com/",
+    "discovered_at": "2026-10-28",
+    "status": "pending_license_review",
+    "reason": "官方页面提供单元素 CSS 加载动画；本次未找到可验证的明确许可条款，未纳入 A/B 免费目录。",
+    "official_sources": [
+      "https://css-loaders.com/"
+    ]
+  }
+]

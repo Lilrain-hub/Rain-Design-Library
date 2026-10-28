@@ -1,0 +1,49 @@
+{
+  "R46": {
+    "verified_at": "2026-10-28",
+    "free_scope": "官方开源代码可免费用于项目；仅收录索引，不打包源码或第三方付费素材。",
+    "license_summary": "代码 MIT；保留版权与许可；文档另为 CC BY 3.0，不混同处理。",
+    "official_sources": [
+      "https://getbootstrap.com/docs/5.3/getting-started/introduction/",
+      "https://github.com/twbs/bootstrap/blob/main/LICENSE",
+      "https://getbootstrap.com/docs/5.3/about/license/"
+    ]
+  },
+  "R47": {
+    "verified_at": "2026-10-28",
+    "free_scope": "官方开源代码可免费用于项目；仅收录索引，不打包源码或第三方付费素材。",
+    "license_summary": "MIT；复制或分发相关代码时保留版权与许可。",
+    "official_sources": [
+      "https://headlessui.com/",
+      "https://github.com/tailwindlabs/headlessui/blob/main/LICENSE"
+    ]
+  },
+  "R48": {
+    "verified_at": "2026-10-28",
+    "free_scope": "官方开源代码可免费用于项目；仅收录索引，不打包源码或第三方付费素材。",
+    "license_summary": "MIT；复制或分发相关代码时保留 WorkOS 版权与许可。",
+    "official_sources": [
+      "https://www.radix-ui.com/primitives/docs/overview/introduction",
+      "https://github.com/radix-ui/primitives/blob/main/LICENSE"
+    ]
+  },
+  "R07": {
+    "verified_at": "2026-10-28",
+    "free_scope": "官方 shadcn/ui 开源代码",
+    "license_summary": "MIT；保留版权与许可。",
+    "official_sources": [
+      "https://raw.githubusercontent.com/shadcn-ui/ui/main/LICENSE.md"
+    ],
+    "review_type": "existing_resource_recheck"
+  },
+  "R08": {
+    "verified_at": "2026-10-28",
+    "free_scope": "官方 Lucide 图标与软件；部分图标来自 Feather",
+    "license_summary": "ISC；源于 Feather 的列举图标另有 MIT 版权与许可，须一并保留相应声明。",
+    "official_sources": [
+      "https://lucide.dev/license",
+      "https://raw.githubusercontent.com/lucide-icons/lucide/main/LICENSE"
+    ],
+    "review_type": "existing_resource_recheck"
+  }
+}
