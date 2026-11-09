@@ -45,5 +45,57 @@
       "https://raw.githubusercontent.com/lucide-icons/lucide/main/LICENSE"
     ],
     "review_type": "existing_resource_recheck"
+  },
+  "R49": {
+    "verified_at": "2026-11-02",
+    "free_scope": "仅 Bulma 官方开源 CSS 库；官网明确免费，MIT 允许商业项目使用。外部推广产品、第三方模板和素材不作免费授权推定。",
+    "license_summary": "MIT；复制或分发代码时保留 Jeremy Thomas 版权与许可；第三方模板、字体和图标另行核对。 MIT 核心允许商业嵌入、修改和分发，但须保留版权及完整许可文本；不强制网页可见署名，不授予商标或第三方素材权利。",
+    "official_sources": [
+      "https://bulma.io/",
+      "https://bulma.io/documentation/start/overview/",
+      "https://raw.githubusercontent.com/jgthms/bulma/main/LICENSE"
+    ]
+  },
+  "R50": {
+    "verified_at": "2026-11-02",
+    "free_scope": "仅 Splide 官方开源核心与公开文档中的基础轮播；Premium Shader Carousel 需要赞助，不计入免费范围。",
+    "license_summary": "核心库 MIT；保留 Naotoshi Fujita 版权与许可。Premium Shader Carousel 为赞助专享，不属于本条免费范围。 MIT 核心允许商业嵌入、修改和分发，但须保留版权及完整许可文本；不强制网页可见署名，不授予商标或第三方素材权利。",
+    "official_sources": [
+      "https://splidejs.com/",
+      "https://splidejs.com/guides/getting-started/",
+      "https://splidejs.com/premium/",
+      "https://raw.githubusercontent.com/Splidejs/splide/master/LICENSE"
+    ]
+  },
+  "R51": {
+    "verified_at": "2026-11-02",
+    "free_scope": "仅 Swiper 官方开源库及其免费核心模块；官网单独列出的 Studio 服务、UI Initiative Premium 模板和效果不在本条范围。",
+    "license_summary": "核心库 MIT；保留 Vladimir Kharlampidi 版权与许可。Swiper Studio 与 UI Initiative 的服务、模板和付费效果不包含在免费核心中。 MIT 核心允许商业嵌入、修改和分发，但须保留版权及完整许可文本；不强制网页可见署名，不授予商标或第三方素材权利。",
+    "official_sources": [
+      "https://swiperjs.com/",
+      "https://swiperjs.com/get-started",
+      "https://raw.githubusercontent.com/nolimits4web/swiper/master/LICENSE"
+    ]
+  },
+  "R28": {
+    "verified_at": "2026-11-02",
+    "free_scope": "Phosphor 官方 core SVG 图标；不将同一项目包装为新条目。",
+    "license_summary": "MIT；保留 Phosphor Icons 版权与许可，允许商业嵌入、修改和分发；无强制网页可见署名。",
+    "official_sources": [
+      "https://phosphoricons.com/",
+      "https://github.com/phosphor-icons/core",
+      "https://raw.githubusercontent.com/phosphor-icons/core/main/LICENSE"
+    ],
+    "review_type": "existing_resource_recheck"
+  },
+  "R37": {
+    "verified_at": "2026-11-02",
+    "free_scope": "Open Props 官方 CSS 设计变量及按需 PropPacks；无需购买，不推定官网链接的外部素材同样授权。",
+    "license_summary": "MIT；保留 Adam Argyle 版权和许可；允许商业使用、修改及分发，不要求网页可见署名。",
+    "official_sources": [
+      "https://open-props.style/",
+      "https://raw.githubusercontent.com/argyleink/open-props/main/LICENSE"
+    ],
+    "review_type": "existing_resource_recheck"
   }
 }

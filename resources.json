@@ -588,7 +588,7 @@
     "name": "Phosphor Icons",
     "category": "图标",
     "url": "https://phosphoricons.com/",
-    "license_url": "https://phosphoricons.com/",
+    "license_url": "https://raw.githubusercontent.com/phosphor-icons/core/main/LICENSE",
     "access": "MIT 开源",
     "license": "MIT；随源码分发时保留许可声明",
     "tech": "SVG / React / 多框架",
@@ -1034,6 +1034,72 @@
     "description": "聚焦键盘交互、焦点管理与可组合 API，可渐进接入；不直接用于无构建的单文件 HTML。",
     "grade": "A",
     "html_friendly": false,
+    "react_friendly": true
+  },
+  {
+    "id": "R49",
+    "name": "Bulma",
+    "category": "UI 组件",
+    "url": "https://bulma.io/",
+    "license_url": "https://raw.githubusercontent.com/jgthms/bulma/main/LICENSE",
+    "access": "免费开源核心",
+    "license": "MIT；复制或分发代码时保留 Jeremy Thomas 版权与许可；第三方模板、字体和图标另行核对。",
+    "tech": "HTML / CSS；可直接加载预编译 CSS，无必需 JavaScript；自定义构建可用 Sass",
+    "tags": [
+      "响应式",
+      "表单",
+      "卡片",
+      "纯 CSS"
+    ],
+    "use": "商家信息页、招商卡片、表单和轻量后台布局",
+    "priority": 2,
+    "description": "纯 CSS 界面组件与布局框架，可用于单 HTML 或框架项目；弹窗和导航等交互需自行实现，接入前检查全局样式影响。",
+    "grade": "A",
+    "html_friendly": true,
+    "react_friendly": true
+  },
+  {
+    "id": "R50",
+    "name": "Splide · Free Core",
+    "category": "UI 组件",
+    "url": "https://splidejs.com/",
+    "license_url": "https://raw.githubusercontent.com/Splidejs/splide/master/LICENSE",
+    "access": "免费开源核心",
+    "license": "核心库 MIT；保留 Naotoshi Fujita 版权与许可。Premium Shader Carousel 为赞助专享，不属于本条免费范围。",
+    "tech": "HTML / CSS / JavaScript；核心无额外运行依赖，需加载 Splide JS 与 CSS 并初始化；React / Vue / Svelte 集成包另装",
+    "tags": [
+      "轮播",
+      "无障碍",
+      "图片画廊",
+      "缩略图"
+    ],
+    "use": "案例轮播、品牌产品画廊、活动成果展示",
+    "priority": 2,
+    "description": "提供键盘与无障碍支持的轻量轮播核心，适合现有 HTML 页面；扩展按需安装，图片和视频仍需单独获得授权。",
+    "grade": "A",
+    "html_friendly": true,
+    "react_friendly": true
+  },
+  {
+    "id": "R51",
+    "name": "Swiper · Free Core",
+    "category": "UI 组件",
+    "url": "https://swiperjs.com/",
+    "license_url": "https://raw.githubusercontent.com/nolimits4web/swiper/master/LICENSE",
+    "access": "免费开源核心",
+    "license": "核心库 MIT；保留 Vladimir Kharlampidi 版权与许可。Swiper Studio 与 UI Initiative 的服务、模板和付费效果不包含在免费核心中。",
+    "tech": "JavaScript / CSS / React / Vue / Web Components；需加载 JS、CSS 并初始化，导航和分页等模块及样式按需引入",
+    "tags": [
+      "触屏",
+      "轮播",
+      "移动端",
+      "产品展示"
+    ],
+    "use": "移动端商品滑动、品牌首屏轮播、案例横向浏览",
+    "priority": 2,
+    "description": "侧重触屏体验和模块化的轮播库，可用 CDN 接入单 HTML 或使用框架集成；固定所用版本，避免混用不同大版本模块。",
+    "grade": "A",
+    "html_friendly": true,
     "react_friendly": true
   }
 ]

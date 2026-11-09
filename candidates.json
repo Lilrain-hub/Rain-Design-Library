@@ -8,5 +8,16 @@
     "official_sources": [
       "https://css-loaders.com/"
     ]
+  },
+  {
+    "name": "Pico CSS",
+    "url": "https://picocss.com/",
+    "discovered_at": "2026-11-02",
+    "status": "deferred_maintenance_review",
+    "reason": "许可证已核实为 MIT；官方仓库已归档并宣布停止维护。本周优先收录仍适合新项目的其他方案，暂不加入推荐目录。Pico 名称与标识不受 MIT 授权覆盖。",
+    "official_sources": [
+      "https://github.com/picocss/pico",
+      "https://raw.githubusercontent.com/picocss/pico/main/LICENSE.md"
+    ]
   }
 ]
