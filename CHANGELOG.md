@@ -1,5 +1,19 @@
 # 更新记录
 
+## 2026-11-16 · 每周资源维护
+
+收录 6 个资源，目录从 51 条增至 57 条。R52–R54 为上周待入库项目，本次重新核对官方许可。
+
+- 新增 R52 [Reka UI](https://www.reka-ui.com/docs/overview/introduction)。无样式菜单、弹窗和表单控件，提供键盘操作和焦点管理。
+- 新增 R53 [Floating UI](https://floating-ui.com/docs/getting-started)。让提示框和菜单贴合触发元素并避开视口边缘。React 包另提供交互 Hooks。
+- 新增 R54 [React Aria Components](https://react-aria.adobe.com/getting-started)。提供带键盘操作的日期选择器、组合框和表格，可用 CSS 或 Tailwind 定制。
+- 新增 R55 [Web Awesome · Core](https://webawesome.com/docs/)。Shoelace 的后续项目，免费 Core 提供按钮、选择框和浮层。Pro 的日期选择器、图表和 Figma 套件另行授权。
+- 新增 R56 [Anime.js](https://animejs.com/documentation/getting-started/installation)。支持属性补间和时间线，可给现有网页加标题、按钮和 SVG 动效。
+- 新增 R57 [PhotoSwipe](https://photoswipe.com/getting-started/)。从缩略图打开全屏灯箱，支持大图缩放和手势。接入时保留原图链接，并使用有授权的图片。
+- 复核 R39 LottieFiles，修正免费动画及其衍生版本的许可保留和分发条件。
+- 复核 R41 GSAP，补充标准许可的商用范围、竞争性无代码动画工具限制和声明要求。
+- 11 月 2 日版本于 11 月 9 日上线，线上网页及 JSON 已核验。
+
 ## 2026-11-02 · 每周资源维护
 
 - 新增 R49 [Bulma](https://bulma.io/)：免费 MIT CSS 框架，记录无必需 JavaScript、交互自备及全局样式影响。

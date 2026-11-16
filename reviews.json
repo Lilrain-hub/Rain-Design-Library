@@ -97,5 +97,81 @@
       "https://raw.githubusercontent.com/argyleink/open-props/main/LICENSE"
     ],
     "review_type": "existing_resource_recheck"
+  },
+  "R52": {
+    "verified_at": "2026-11-16",
+    "free_scope": "Reka UI（原 Radix Vue）官方开源包，和 React 的 Radix Primitives 是不同项目。",
+    "license_summary": "MIT。允许商用、修改和分发。复制或分发实质部分时保留版权和许可。 第三方依赖与素材分别核对。",
+    "official_sources": [
+      "https://www.reka-ui.com/docs/overview/introduction",
+      "https://raw.githubusercontent.com/unovue/reka-ui/main/LICENSE",
+      "https://www.reka-ui.com/docs/overview/installation"
+    ]
+  },
+  "R53": {
+    "verified_at": "2026-11-16",
+    "free_scope": "免费的 DOM、React 和 Vue 官方包，按目标框架选用。",
+    "license_summary": "MIT。允许商用、修改和分发。复制或分发实质部分时保留版权和许可。 第三方依赖与素材分别核对。",
+    "official_sources": [
+      "https://floating-ui.com/docs/getting-started",
+      "https://raw.githubusercontent.com/floating-ui/floating-ui/master/LICENSE"
+    ]
+  },
+  "R54": {
+    "verified_at": "2026-11-16",
+    "free_scope": "Adobe 开源组件包 react-aria-components。",
+    "license_summary": "Apache-2.0。允许商用、修改和分发。分发时附许可证、保留相关声明及适用的 NOTICE，并标明修改。 第三方依赖与素材分别核对。",
+    "official_sources": [
+      "https://react-aria.adobe.com/getting-started",
+      "https://raw.githubusercontent.com/adobe/react-spectrum/main/LICENSE",
+      "https://raw.githubusercontent.com/adobe/react-spectrum/main/packages/react-aria-components/package.json"
+    ]
+  },
+  "R55": {
+    "verified_at": "2026-11-16",
+    "free_scope": "仅 Web Awesome Core 的开源组件、主题和工具，排除 Pro 功能与素材。保留声明，商标和额外图标按各自条款。",
+    "license_summary": "MIT。允许商用、修改和分发。复制或分发实质部分时保留版权和许可。 第三方依赖与素材分别核对。",
+    "official_sources": [
+      "https://webawesome.com/docs/",
+      "https://webawesome.com/license",
+      "https://webawesome.com/support/"
+    ]
+  },
+  "R56": {
+    "verified_at": "2026-11-16",
+    "free_scope": "仅 Anime.js 官方开源库，官网示例所含第三方素材另行核对。",
+    "license_summary": "MIT。允许商用、修改和分发。复制或分发实质部分时保留版权和许可。 第三方依赖与素材分别核对。",
+    "official_sources": [
+      "https://animejs.com/documentation/getting-started/installation",
+      "https://raw.githubusercontent.com/juliangarnier/anime/master/LICENSE.md"
+    ]
+  },
+  "R57": {
+    "verified_at": "2026-11-16",
+    "free_scope": "仅 PhotoSwipe 官方软件。独立于页面轮播库，演示图片和扩展按各自许可。",
+    "license_summary": "MIT。允许商用、修改和分发。复制或分发实质部分时保留版权和许可。 第三方依赖与素材分别核对。",
+    "official_sources": [
+      "https://photoswipe.com/getting-started/",
+      "https://raw.githubusercontent.com/dimsemenov/PhotoSwipe/master/LICENSE"
+    ]
+  },
+  "R39": {
+    "verified_at": "2026-11-16",
+    "free_scope": "仅已标为 Free 的公开动画，下载前核查单项。",
+    "license_summary": "已标为 Free 的公开动画按 Lottie Simple License 可商用，作者署名可选。展示或分发动画须附同一许可，修改版分发时继续适用原条款。禁止汇编用来搭建同类服务，Premium 另有条款。",
+    "official_sources": [
+      "https://lottiefiles.com/page/license",
+      "https://help.lottiefiles.com/animation-licensing-basics-"
+    ],
+    "review_type": "existing_resource_recheck"
+  },
+  "R41": {
+    "verified_at": "2026-11-16",
+    "free_scope": "GSAP 核心及官方插件用于网站或应用。",
+    "license_summary": "专有免费标准许可，覆盖网站、网页应用和数字界面商用。保留版权和标识，未经书面同意不得用于帮助构建与 Webflow 竞争的无代码可视化动画工具。",
+    "official_sources": [
+      "https://gsap.com/community/standard-license/"
+    ],
+    "review_type": "existing_resource_recheck"
   }
 }
